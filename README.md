@@ -1,6 +1,7 @@
 # Hi, I'm Kevin D. Duncan 
 
 **Senior Economist @ FHFA since 2020**
+
 **PhD Economics @ Iowa State University**
 
 Welcome to my GitHub! I specialize in applying advanced econometric theory and time series forecasting to real-world problems in finance, banking, and housing.
